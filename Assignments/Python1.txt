@@ -1,0 +1,37 @@
+>> 
+Write a Python program to accept a filename from the user and print the extension of that.
+
+>> 
+Write a "Guess the Number" program
+
+The program will first randomly generate a number unknown to the user. The user needs to guess what that number is. 
+(In other words, the user needs to be able to input information.) If the user’s guess is wrong, the program should return some sort of indication as to how wrong 
+(e.g. The number is too high or too low). If the user guesses correctly, a positive indication should appear. 
+You’ll need functions to check if the user input is an actual number, to see the difference between the inputted number and the randomly generated numbers, 
+and to then compare the numbers.
+
+>>
+Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn.
+
+>>
+Write a Python program to sum all the items in a list.
+
+
+>>
+Write a Python program to print out a set containing all the colors from color_list_1 which are not present in color_list_2. 
+[Color_list_1 and Color_list_2 are lists]
+
+>>
+Write a python program to access environment variables
+
+>>
+Write a Python program to print the documents (syntax, description etc.) of Python built-in function(s).
+Sample function : abs()
+Expected Result : 
+abs(number) -> number
+Return the absolute value of the argument.
+
+
+
+
+

@@ -1,0 +1,6 @@
+A) Write test cases for Gmail Login? Give at least 5 examples.
+
+B) Design 3 positive Test cases and 3 negative test cases regarding: http://newtours.demoaut.com
+
+c) Develop Test Plan for Flight Reservation System Application (Take MakeMyTrip for example)
+
