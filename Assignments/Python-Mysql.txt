@@ -1,0 +1,13 @@
+Problem Statement:- 
+	Get, Insert, Update and Delete records into MySql Database
+		Steps to follow:-
+			1) Create mysql database with following tables, prepare an ERD diagram for the same
+				1.a) Organization - id, name, employees
+				1.b) Employee - id, name, emp_id, address
+				1.c) Address - id, street, pincode, type
+			2) Perform CRUD operation through a Python script.
+
+Objective:-
+	The objective of this assignment is to understand how to make
+		1) Make mysql connection with Python.
+		2) CRUD operations on mysql tables
