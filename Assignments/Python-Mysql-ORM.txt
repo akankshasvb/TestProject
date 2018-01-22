@@ -1,0 +1,8 @@
+Problem Statement:- 
+	Get, Insert, Update and Delete records into MySql Database through the ORM layer, refer https://www.sqlalchemy.org/
+		Steps to follow:-
+			1) Enhance the Python script to perform CRUD operation using ORM.
+
+Objective:-
+	The objective of this assignment is to understand how to make
+		1) Why ORM are necessary, how would a framework work.

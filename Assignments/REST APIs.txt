@@ -1,0 +1,14 @@
+Problem Statement:- 
+	Create REST apis for organizations, refer http://flask.pocoo.org/ to know how to build a apis using flask
+		Steps to follow:-
+			1) Insert a password field in Employee tables to store plain text passwords.
+			2) Write REST apis which would
+				1.a) List all organizations
+				1.b) Create organization record
+				1.c) Delete organization record
+				1.d) Update organization record
+			3) Create a login api to authenticate the employee against email and password stored in database using basic authentication.
+
+Objective:-
+	The objective of this assignment is to understand how to make
+		1) What is REST web service and how to expose REST interfaces.
