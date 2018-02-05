@@ -1,0 +1,14 @@
+
+1) Create a Windows Instance on Oracle Virtual Box
+
+2) Create a Linux virtual machine on Virtual Box
+
+3) Create an NFS share on the Linux guest and access it from the host system to copy/share some files.
+
+4) create an SMB/CIFS share on the Windows VM and access it from the host system
+
+5) Clone the Linux VM to create a new VM.
+
+
+
+
