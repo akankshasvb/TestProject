@@ -1,0 +1,68 @@
+> Display 10 lines from 10th line of a document
+> move all files/folder of a folder to another folder
+> delete a folder which is not empty
+> recursively change permissions on a folder
+> Create a file 'foo' which has content "Hello World" using the echo command
+> find out the file-type of the newly created file above
+> change the file-type to a text file
+> append the current date to the above file without using 'vi'
+> grant permissions to the above file such that only root user can access it
+> create a new user 'user123'; set his password
+> try accessing the file 'foo.txt' with the newly created user and verify he cannot access the file
+Switch to user 'user123' and execute the following:
+
+> start a process which runs in the background
+> find out the resource utilization of the above process
+> kill the above process
+> Print out your environment settings
+> Make an alias "lll" which actually executes ls -la
+> Run the command tail testfile>testfile. Find out why it does not work
+> Make a script that can say something on the lines of "hello, world." Give it appropriate permissions so
+it can be run. Test your script.
+> Create a directory in your home directory and move the script to the new directory. Permanently add
+this new directory to your search path. Test that the script can be executed without giving a path to its
+actual location
+> Display network information for your workstation: IP address, routes, name servers
+ Make a backup copy of your home directory in /var/tmp using the tar command. Then further
+compress the file using gzip or bzip2. Make it a clean tarred file, one that doesn't make a mess when
+unpacking.
+
+find out:
+> how many partitions are there in your system
+> the partition on which your home directory resides
+> the total size of your linux installation
+> what CPU is the system running on
+> how much RAM is currently in use
+> what is the name of your system
+> how much swap space do you have
+> how may hours the system has been running
+> which release are you running
+> are there any issues or messages of the day?
+> how many users are defined on your system
+> how many groups are defined
+> what is the output of the top command
+> what is the output of the ps command
+> what is the output of the dmesg command
+
+
+
+
+Advanced:
+> 
+> Make a tar archive of your home directory and encrypt it.
+> Suppose no DNS is available. What would you do to reach your neighbour's machine without typing
+the IP address all the time?
+> Send an E-mail to your local account. Try two different ways to send and read it. How can you check
+that it really arrived?
+> Does your machine accept anonymous FTP connections? How do you use the ncftp program to
+authenticate with your user name and password?
+> Make a list of open (listening) ports on your machine
+> Supposing you want to run a web server. Which services would you deactivate? How would you do
+that?
+> Set up SSH keys so you can connect to your neighbour's machine without having to enter a password.
+> Make a backup copy of your home directory in /var/tmp on your neighbour's "backup server,"
+using scp. Archive and compress before starting the data transfer! Connect to the remote host using
+ssh, unpack the backup, and put one file back on the original machine using sftp.
+> How can you see who connected to your system?
+> Make a repetitive job that reminds you to change your password every month, and preferably the root
+password as well.
