@@ -1,0 +1,10 @@
+REST API Testing assignment1
+
+Write Test Scenarios and test cases for testing APIs available at:
+
+https://testdb-7413.restdb.io/apps/swagger/?url=https://testdb-7413.restdb.io/rest/_swagger.json#/'
+
+Use swagger
+Use Postman
+Use CURL
+
